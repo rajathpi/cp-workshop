@@ -1,0 +1,168 @@
+///Syntax of STL containers										
+										STL
+										1.vector
+										2.set
+										3.map
+										4.stack
+										5.queue
+										6.priority queue
+
+						 					
+
+
+/************************************************************************************************************/
+
+						 					VECTOR
+1-Declarations 
+  vector<int> vect;  
+  vector<int> vect(10);	
+
+USES:-
+
+1-Easy to use,helps us in initializing default values 
+vector 							Vs				Array
+vector<int> vect(100000,-1);        		int arr[100000];
+											for(int i=0;i<100000;i++)
+											{
+											arr[i]=-1;
+											}
+
+
+
+
+2-Graph problems	-Adjacency list representation 
+
+
+
+							Operations on vector 
+							push_back()
+							pop_back()
+							size(),
+							iteration
+
+
+3-Dynamic in nature(resize)				//excecute the code to explain the difference b/w array and vector 
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+							SET
+							Operations 
+
+							1. insert
+							unordered_set<int> s;
+							s.insert(1); 
+
+							2. erase
+							s.erase(1);
+
+							3. find 
+							if(s.find(3)!=s.end()){
+								cout<<"found!";
+							}
+
+							4. Iterate
+							for(auto it=s.begin();it!=s.end();it++)
+							{
+								cout<<*it<<" ";
+							}
+
+
+/************************************************************************************************************/
+
+
+							MAP
+
+							1.Declaration
+
+							map<int,int> mp; 
+							map<string,int> mp;
+							
+
+							2.insert
+							mp.insert(pair<int, int>(1, 40)); //inserting key-value pair of 1-40
+							mp[1]=2;							//inserting key-value pair of 1-2
+							mp["AC"]=1;							//inserting key-value pair of "AC"-1
+
+							2.Iterate
+							map<int, int>::iterator itr;//or use auto itr inside the loop
+    						
+    						
+    						
+    						
+		    				for (auto itr = mp.begin(); itr != mp.end(); ++itr) 
+		    						{
+		        			cout << '\t' << itr->first<< '\t' << itr->second << '\n'; //first prints the key and second prints the value
+		    						}
+
+
+/************************************************************************************************************/
+							stack	
+
+							stack<int> st;
+
+							1.push
+
+							stack<int> st;
+							st.push(1);
+							st.push(2);
+
+							2.pop
+
+							st.pop();
+
+							3.top()
+
+							int temp=st.top();
+
+							4.empty()
+
+							if(st.empty()==true)
+							{
+								cout<<"stack is emmpty";
+							}
+
+							5. size
+							int x=st.size();
+
+
+
+							queue	
+							queue<int> q;
+
+			    			1.push
+			    			q.push();
+			    			
+			    			2.pop
+			    			q.pop();
+
+			    			3.size
+			    			q.size();
+
+			    			4.empty				
+			    			if(q.empty()==true)
+			    			{
+			    				cout<<"Queue is empty !";
+			    			}
+/************************************************************************************************************/
+							Declarations of two kinds of priority queue 
+
+							priority queue	(max heap)
+
+							priority_queue<int> pq;  
+
+
+
+
+							priority queue	(min heap)
+
+							priority_queue<int,vector<int>,greater<int> > 
+
+							
