@@ -25,8 +25,8 @@ If you're intereted to solve harder problems you can take a look at
 # STL resource
 1) [STL](http://www.martinbroadhurst.com/stl/table_of_contents.html)
 2) [GFG](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-3) [Vectors](https://github.com/rajathpi/cp-workshop/blob/main/vector.cpp)
-4) [Set](https://github.com/rajathpi/cp-workshop/blob/main/SET%20.cpp)
+3) [Vectors](https://github.com/rajathpi/cp-workshop/blob/main/vector.cpp)  **<-**  [Run Code](https://ideone.com/71rAMc)
+4) [Set](https://github.com/rajathpi/cp-workshop/blob/main/SET%20.cpp)  **<-**  [Run Code](https://ideone.com/6xKNNx)
 
 
 # Books
