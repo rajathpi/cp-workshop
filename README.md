@@ -28,6 +28,10 @@ If you're intereted to solve harder problems you can take a look at
 3) [Vectors](https://github.com/rajathpi/cp-workshop/blob/main/vector.cpp)  **<-**  [Run Code](https://ideone.com/71rAMc)
 4) [Set](https://github.com/rajathpi/cp-workshop/blob/main/SET%20.cpp)  **<-**  [Run Code](https://ideone.com/6xKNNx)
 
+# Dynamic Progamming
+
+1) ## [DP](https://github.com/rajathpi/cp-workshop/blob/main/DP.md) <- check it out
+
 
 # Books
 1) [Competitive Programmer’s Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)
@@ -41,3 +45,5 @@ If you're intereted to solve harder problems you can take a look at
 5) [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA) solves leetcode problems
 6) [SecondThread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g) uses Java mainly
 7) [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) Learn to code for free
+
+
