@@ -61,6 +61,23 @@ If you're intereted to solve harder problems you can take a look at
 29) [Dp tutorials](https://www.vplanetcoding.com/course2#698A)
 30) [DP strategy](https://www.quora.com/How-can-I-be-perfect-in-dynamic-programming-How-should-I-practice/answer/Bohdan-Pryshchenko?ch=10&share=9a742611&srid=DDSy)
 
+### Dynamic programming Youtube Tutorials:
+
+1) [DP tutorial #1 by Errichto](https://youtu.be/YBSt1jYwVfU)
+2) [DP tutorial #2 by Errichto](https://youtu.be/1mtvm2ubHCY)
+3) [DP tutorial #3 by Errichto](https://youtu.be/pwpOC1dph6U)
+4) [Leetcode DP problems by Errichto](https://youtu.be/8RIqJDDgtU8)
+5) [DP playlist(English)](https://youtube.com/playlist?list=PLamzFoFxwoNjtJZoNNAlYQ_Ixmm2s-CGX)
+6) [DP playlist (created by gkcs, English)](https://www.youtube.com/playlist?list=PLMCXHnjXnTnto1pZVvH7rbZ9W5neZ7Yhc)
+7) [DP playlist2(English)](https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)
+8) [DP playlist3(English)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+9) [Dp playlist4(English)](https://www.youtube.com/playlist?list=PLJULIlvhz0rE83NKhnq7acXYIeA0o1dXb)
+10) [DP playlist5(English)](https://www.youtube.com/playlist?list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+11) [DP playlist6(English)](https://www.youtube.com/playlist?list=PLfBJlB6T2eOtMXgK3FLUTawHjzpIEySHF)
+12) [DP playlist7(English)](https://www.youtube.com/playlist?list=PLawezQIZQjju9cZPjjD1vQK8IuNxcRD8u)
+13) [Atcoder DP contest stream](https://www.youtube.com/watch?v=FAQxdm0bTaw)
+14) [vplanet DP tutorials](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg/videos)
+15) [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w/featured)
 
 # Books
 1) [Competitive Programmer’s Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)
