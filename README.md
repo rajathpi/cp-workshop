@@ -25,8 +25,14 @@ If you're intereted to solve harder problems you can take a look at
 # STL resource
 1) [STL](http://www.martinbroadhurst.com/stl/table_of_contents.html)
 2) [GFG](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-3) [Vectors](https://github.com/rajathpi/cp-workshop/blob/main/vector.cpp)  **<-**  [Run Code](https://ideone.com/71rAMc)
-4) [Set](https://github.com/rajathpi/cp-workshop/blob/main/SET%20.cpp)  **<-**  [Run Code](https://ideone.com/6xKNNx)
+3) [STL-1 Topcoder](https://www.topcoder.com/thrive/articles/Power%20up%20C++%20with%20the%20Standard%20Template%20Library%20Part%20One)
+4) [STL-2 Topcoder](https://www.topcoder.com/thrive/articles/Power%20up%20C++%20with%20the%20Standard%20Template%20Library%20Part%20Two:%20Advanced%20Uses)
+5) [Vectors](https://github.com/rajathpi/cp-workshop/blob/main/vector.cpp)  **<-**  [Run Code](https://ideone.com/71rAMc)
+6) [Set](https://github.com/rajathpi/cp-workshop/blob/main/SET%20.cpp)  **<-**  [Run Code](https://ideone.com/6xKNNx)
+
+### Problems on STL
+1) [Few Basic Problems](https://www.hackerearth.com/login/?next=/challenges/competitive/code-monk-c-stl/problems/)
+2) [A2oj](https://a2oj.com/Category166.html)
 
 # Dynamic Progamming
 
@@ -78,6 +84,12 @@ If you're intereted to solve harder problems you can take a look at
 13) [Atcoder DP contest stream](https://www.youtube.com/watch?v=FAQxdm0bTaw)
 14) [vplanet DP tutorials](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg/videos)
 15) [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w/featured)
+
+### Problems on Dynamic Programming:
+1) [Atcoder Dp contest](https://atcoder.jp/contests/dp/tasks)
+2) [Marathan Dp Contest(cloned)](https://vjudge.net/contest/202878)
+3) [Vplanet Dp and other contests](https://codeforces.com/group/hK6hgc8x94/contests)
+4) [A2oj](https://a2oj.com/Category33.html)
 
 # Books
 1) [Competitive Programmer’s Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)
