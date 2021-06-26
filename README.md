@@ -9,18 +9,32 @@ Competitive programming is solving well-defined problems by writing computer pro
 ```
 
 # What are some good website to prepapre for interviews?
- 1) [Leetcode](https://www.codechef.com/)
+ 1) ### **[Leetcode](https://www.codechef.com/)**
  2) [Codechef](https://leetcode.com/)
 
 If you're intereted to solve harder problems you can take a look at 
 1) [Codeforces](https://codeforces.com/)
 2) [Atcoder](https://atcoder.jp/)
 3) [CSES](https://cses.fi/problemset/)
+4) [USACO](http://www.usaco.org/index.php?page=contests)
+5) [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart/archive)
+6) [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam/archive)
+7) [Project Euler](https://projecteuler.net/archives)
+8) [Timus](https://acm.timus.ru/problemset.aspx)
+9) [dmoj](https://dmoj.ca/problems/)
+10) [toph](https://toph.co/problems)
+11) [csacademy](https://csacademy.com/contest/interview-archive/)
+12) [UVa online judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=13)
+13) [Spoj](https://www.spoj.com/problems/classical/)
 
 # Resources
 1) [geeksforgeeks](https://www.geeksforgeeks.org/)
 2) [cplusplus](https://www.cplusplus.com/doc/tutorial/)
 3) [cp-algorithms](https://cp-algorithms.com/) (ADVANCED TOPICS)
+
+# Problems
+1) [problems set1](https://github.com/rajathpi/cp-workshop/blob/main/Leetcode%20Preparation.pdf)
+2) [problems set2](https://github.com/rajathpi/cp-workshop/blob/main/DataStructures.pdf)
 
 # STL resource
 1) [STL](http://www.martinbroadhurst.com/stl/table_of_contents.html)
