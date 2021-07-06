@@ -114,8 +114,10 @@ If you're intereted to solve harder problems you can take a look at
 2) [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 3) [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 4) [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
-5) [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA) solves leetcode problems
-6) [SecondThread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g) uses Java mainly
-7) [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) Learn to code for free
+5) [Kevin Naughton Jr](https://www.youtube.com/c/KevinNaughtonJr) <- Leetcode
+6) [mycodeschool](https://www.youtube.com/user/mycodeschool)
+7) [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA) solves leetcode problems
+8) [SecondThread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g) uses Java mainly
+9) [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) Learn to code for free
 
 
