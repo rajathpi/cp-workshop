@@ -35,6 +35,8 @@ If you're intereted to solve harder problems you can take a look at
 # Problems
 1) [problems set1](https://github.com/rajathpi/cp-workshop/blob/main/Leetcode%20Preparation.pdf)
 2) [problems set2](https://github.com/rajathpi/cp-workshop/blob/main/DataStructures.pdf)
+3) [Google](https://leetcode.com/list/5ysk3zs5)
+4) [Top 60 questions to solve](https://leetcode.com/list/5ykwp077)
 
 # STL resource
 1) [STL](http://www.martinbroadhurst.com/stl/table_of_contents.html)
@@ -104,6 +106,11 @@ If you're intereted to solve harder problems you can take a look at
 2) [Marathan Dp Contest(cloned)](https://vjudge.net/contest/202878)
 3) [Vplanet Dp and other contests](https://codeforces.com/group/hK6hgc8x94/contests)
 4) [A2oj](https://a2oj.com/Category33.html)
+5) [DP for Beginners (leetcode)](https://leetcode.com/list/5yki62o1)
+6) [DP on strings (leetcode)](https://leetcode.com/list/5yk73e2v)
+7) [DP (Max - Min) (leetcode)](https://leetcode.com/list/5yk773i6)
+8) [DP(merging intervals)](https://leetcode.com/list/5yk7vj6m)
+9) [DP (distinct ways)](https://leetcode.com/list/5yk7a24s)
 
 # Books
 1) [Competitive Programmer’s Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)
