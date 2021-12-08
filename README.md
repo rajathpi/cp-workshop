@@ -3,16 +3,16 @@ Notes of code-init-workshop📝<br>
 
 [Click here](https://youtu.be/JVE3-sxTcaM) to watch the video of the workshop<br>
 
-# What is Competitive Programming?
+# What is Competitive Programming?<br>
 ```
 Competitive programming is solving well-defined problems by writing computer programs under specified limits.
 ```
 
-# What are some good website to prepapre for interviews?
+# What are some good website to prepapre for interviews?<br>
  1) **[Leetcode](https://www.codechef.com/)**<br>
  2) [Codechef](https://leetcode.com/)<br>
 
-If you're intereted to solve harder problems you can take a look at 
+If you're intereted to solve harder problems you can take a look at <br>
 1) [Codeforces](https://codeforces.com/)<br>
 2) [Atcoder](https://atcoder.jp/)<br>
 3) [CSES](https://cses.fi/problemset/)<br>
