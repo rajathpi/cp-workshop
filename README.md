@@ -9,7 +9,7 @@ Competitive programming is solving well-defined problems by writing computer pro
 ```
 
 # What are some good website to prepapre for interviews?
- 1) ### **[Leetcode](https://www.codechef.com/)**<br>
+ 1) **[Leetcode](https://www.codechef.com/)**<br>
  2) [Codechef](https://leetcode.com/)<br>
 
 If you're intereted to solve harder problems you can take a look at 
