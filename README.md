@@ -13,19 +13,19 @@ Competitive programming is solving well-defined problems by writing computer pro
  2) [Codechef](https://leetcode.com/)
 
 If you're intereted to solve harder problems you can take a look at 
-1) [Codeforces](https://codeforces.com/)
-2) [Atcoder](https://atcoder.jp/)
-3) [CSES](https://cses.fi/problemset/)
-4) [USACO](http://www.usaco.org/index.php?page=contests)
-5) [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart/archive)
-6) [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam/archive)
-7) [Project Euler](https://projecteuler.net/archives)
-8) [Timus](https://acm.timus.ru/problemset.aspx)
-9) [dmoj](https://dmoj.ca/problems/)
-10) [toph](https://toph.co/problems)
-11) [csacademy](https://csacademy.com/contest/interview-archive/)
-12) [UVa online judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=13)
-13) [Spoj](https://www.spoj.com/problems/classical/)
+1) [Codeforces](https://codeforces.com/)<br>
+2) [Atcoder](https://atcoder.jp/)<br>
+3) [CSES](https://cses.fi/problemset/)<br>
+4) [USACO](http://www.usaco.org/index.php?page=contests)<br>
+5) [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart/archive)<br>
+6) [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam/archive)<br>
+7) [Project Euler](https://projecteuler.net/archives)<br>
+8) [Timus](https://acm.timus.ru/problemset.aspx)<br>
+9) [dmoj](https://dmoj.ca/problems/)<br>
+10) [toph](https://toph.co/problems)<br>
+11) [csacademy](https://csacademy.com/contest/interview-archive/)<br>
+12) [UVa online judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=13)<br>
+13) [Spoj](https://www.spoj.com/problems/classical/)<br>
 
 # Resources
 1) [geeksforgeeks](https://www.geeksforgeeks.org/)
