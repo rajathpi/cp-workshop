@@ -8,7 +8,7 @@ Notes of code-init-workshop📝<br>
 Competitive programming is solving well-defined problems by writing computer programs under specified limits.
 ```
 
-# What are some good website to prepapre for interviews?<br>
+# What are some good websites for interview preparation?<br>
  1) **[Leetcode](https://www.codechef.com/)**<br>
  2) [Codechef](https://leetcode.com/)<br>
 
