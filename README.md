@@ -1,7 +1,10 @@
-# cp-workshop
+<p align="center">
+ 
+  <img width="100" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" alt="Material Bread logo">
+ <h1 align="center">CP Workshop</h1>
+</p>
 Notes of code-init-workshop📝<br>
-
-[Click here](https://youtu.be/JVE3-sxTcaM) to watch the video of the workshop<br>
+<a href="https://youtu.be/JVE3-sxTcaM">Click here</a> to watch the video of the workshop<br>
 
 # What is Competitive Programming?<br>
 ```
