@@ -1,6 +1,6 @@
 <p align="center">
  
-  <img width="100" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" alt="Material Bread logo">
+  <img width="200" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" alt="Material Bread logo">
  <h1 align="center">CP Workshop</h1>
 </p>
 Notes of code-init-workshop📝<br>
