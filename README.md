@@ -119,6 +119,9 @@ If you're intereted to solve harder problems you can take a look at <br>
 1) [Competitive Programmer’s Handbook by Antti Laaksonen](https://cses.fi/book/book.pdf)<br>
 2) [Advanced Competitive Programming - 25 Books](https://archive.org/details/advanced-competitive-programming/Advanced-Data-Structure)<br>
 
+# How to practice
+1) [A way to practice competitive programming](https://github.com/rajathpi/cp-workshop/blob/main/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf) by [E869120](https://codeforces.com/profile/E869120)<br>
+
 # Youtube Channels
 1) [Computerphile](https://www.youtube.com/user/Computerphile)<br>
 2) [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)<br>
