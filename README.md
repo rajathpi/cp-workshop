@@ -6,6 +6,8 @@
 Notes of code-init-workshop📝<br>
 <a href="https://youtu.be/JVE3-sxTcaM">Click here</a> to watch the video of the workshop<br>
 
+[Page](https://rajathpi.github.io/cp-workshop/)
+
 # What is Competitive Programming?<br>
 ```
 Competitive programming is solving well-defined problems by writing computer programs under specified limits.
