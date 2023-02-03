@@ -1,6 +1,6 @@
 <p align="center">
  
-  <img width="200" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" alt="Material Bread logo">
+  <img width="200" src="https://em-content.zobj.net/source/microsoft-teams/337/person-raising-hand_light-skin-tone_1f64b-1f3fb_1f3fb.png" alt="Material Bread logo">
  <h1 align="center">CP Workshop</h1>
 </p>
 Notes of code-init-workshop📝<br>
@@ -31,6 +31,7 @@ If you're intereted to solve harder problems you can take a look at <br>
 11) [csacademy](https://csacademy.com/contest/interview-archive/)<br>
 12) [UVa online judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=13)<br>
 13) [Spoj](https://www.spoj.com/problems/classical/)<br>
+14) [oj](https://oj.uz/) </br>
 
 # Resources
 1) [geeksforgeeks](https://www.geeksforgeeks.org/)<br>
