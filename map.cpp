@@ -18,9 +18,9 @@ Q  Given two sets of strings of n and k,Count the number of  occurences of each 
 
 			
 				How the map looks after insertion into the map
-				"WA","TLE","RE","AC" "WAontestcase1" "gohome"
-				|		|	 |	   |	|				|
-				0		1	 1	   1	2				1
+				"WA"	"TLE"	"RE"	"AC"	 "WAontestcase1"	 "gohome"
+				 0	  1	  1 	 1		2                   1				
+								
 */
 
 
