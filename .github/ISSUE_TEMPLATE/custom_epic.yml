@@ -1,0 +1,161 @@
+# .github/ISSUE_TEMPLATE/epic.yml
+name: Epic
+description: A high-level strategic initiative spanning multiple features and sprints
+labels: ["epic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Epic Definition
+        Use this template to define a strategic initiative that will be broken down
+        into multiple features and tasks.
+
+  - type: input
+    id: epic-title-prefix
+    attributes:
+      label: Domain Prefix
+      description: >
+        Optional bracket prefix for the epic title (e.g. [CDX], [ADAS],
+        [Middleware], [Enterprise])
+      placeholder: "[CDX]"
+    validations:
+      required: false
+
+  - type: textarea
+    id: business-objective
+    attributes:
+      label: Business Objective
+      description: What strategic goal does this epic serve?
+      placeholder: |
+        Describe the business problem or opportunity this epic addresses
+        and how it aligns with the product strategy.
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope & Key Features
+      description: What is included (and explicitly excluded) from this epic?
+      placeholder: |
+        **In scope:**
+        - Feature A
+        - Feature B
+
+        **Out of scope:**
+        - ...
+      value: |
+        **In scope:**
+        -
+
+        **Out of scope:**
+        -
+    validations:
+      required: true
+
+  - type: textarea
+    id: success-criteria
+    attributes:
+      label: Success Criteria
+      description: How do we know this epic is done?
+      placeholder: |
+        - [ ] Criterion 1
+        - [ ] Criterion 2
+      value: |
+        - [ ]
+    validations:
+      required: true
+
+  - type: dropdown
+    id: epic-domain
+    attributes:
+      label: Domain Area
+      description: Primary domain this epic belongs to
+      options:
+        - Architecture
+        - Middleware
+        - ADAS
+        - Connectivity
+        - HMI / IVI
+        - Hardware (HPC / CU)
+        - Functional Safety
+        - Cybersecurity
+        - CDX (Dev Platform & Kit)
+        - CI/CD & DevOps
+        - Enterprise IT
+        - Portfolio & Strategy
+        - Quality & Verification
+        - Documentation
+    validations:
+      required: true
+
+  - type: dropdown
+    id: customer-relevance
+    attributes:
+      label: Customer / OEM Relevance
+      description: Which customer or partner does this primarily serve?
+      multiple: true
+      options:
+        - Volvo Trucks
+        - Daimler Trucks
+        - Accenture (delivery partner)
+        - Internal (Coretura)
+        - All customers
+    validations:
+      required: true
+
+  - type: dropdown
+    id: epic-priority
+    attributes:
+      label: Priority
+      options:
+        - Critical — blocks milestone delivery
+        - High — required for upcoming sprint
+        - Medium — planned for current quarter
+        - Low — backlog / exploratory
+    validations:
+      required: true
+
+  - type: input
+    id: target-milestone
+    attributes:
+      label: Target Milestone / Sprint
+      description: "e.g. MS3, Sprint 3, 26w12"
+      placeholder: "MS3"
+    validations:
+      required: false
+
+  - type: textarea
+    id: epic-dependencies
+    attributes:
+      label: Dependencies & Risks
+      description: Other epics, external deliveries, or blockers
+      placeholder: |
+        - Depends on #123 (epic/feature)
+        - Risk: ...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: epic-safety-relevance
+    attributes:
+      label: ISO 26262 Safety Relevance
+      description: Does this epic involve safety-critical work?
+      options:
+        - "Yes — ASIL classified"
+        - "Partial — QM with safety context"
+        - "No — non-safety"
+    validations:
+      required: true
+
+  - type: textarea
+    id: stakeholders
+    attributes:
+      label: Stakeholders
+      description: Who are the key people or teams involved?
+      placeholder: |
+        - Product Owner:
+        - Technical Lead:
+        - Lab / Forum:
+    validations:
+      required: false
