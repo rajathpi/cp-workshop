@@ -1,0 +1,164 @@
+# .github/ISSUE_TEMPLATE/feature.yml
+name: Feature
+description: A concrete deliverable that implements part of an epic
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Feature Request
+        Use this template to describe a specific feature or capability
+        to be implemented within an epic.
+
+  - type: input
+    id: parent-epic
+    attributes:
+      label: Parent Epic
+      description: "Link to the parent epic (e.g. #123)"
+      placeholder: "#"
+    validations:
+      required: false
+
+  - type: textarea
+    id: feature-user-story
+    attributes:
+      label: User Story
+      description: Describe the feature from the user's perspective
+      value: |
+        **As a** [role],
+        **I want** [capability],
+        **So that** [benefit].
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Description
+      description: >
+        Additional context, technical details, or background information
+      placeholder: Provide any relevant context beyond the user story.
+    validations:
+      required: false
+
+  - type: textarea
+    id: feature-acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: Conditions that must be met for this feature to be complete
+      value: |
+        - [ ]
+        - [ ]
+    validations:
+      required: true
+
+  - type: dropdown
+    id: feature-domain
+    attributes:
+      label: Domain Area
+      description: Primary domain this feature belongs to
+      options:
+        - Architecture
+        - Middleware
+        - ADAS
+        - Connectivity
+        - HMI / IVI
+        - Hardware (HPC / CU)
+        - Functional Safety
+        - Cybersecurity
+        - CDX (Dev Platform & Kit)
+        - CI/CD & DevOps
+        - Enterprise IT
+        - Portfolio & Strategy
+        - Quality & Verification
+        - Documentation
+    validations:
+      required: true
+
+  - type: dropdown
+    id: lab-forum
+    attributes:
+      label: Lab / Forum
+      description: Which lab or forum should review this feature?
+      options:
+        - Architecture Forum
+        - Middleware Lab
+        - Application Lab
+        - Hardware Lab
+        - Capability Lab
+        - CDX Lab
+        - Verification & Validation Lab
+        - Platform Standardization Lab
+        - N/A
+    validations:
+      required: false
+
+  - type: dropdown
+    id: customer-impact
+    attributes:
+      label: Customer Impact
+      description: Which customers are affected?
+      multiple: true
+      options:
+        - Volvo Trucks
+        - Daimler Trucks
+        - Accenture (delivery partner)
+        - Internal (Coretura)
+        - All customers
+    validations:
+      required: true
+
+  - type: dropdown
+    id: feature-priority
+    attributes:
+      label: Priority
+      options:
+        - Critical — blocks milestone delivery
+        - High — required for upcoming sprint
+        - Medium — planned for current quarter
+        - Low — backlog / exploratory
+    validations:
+      required: true
+
+  - type: input
+    id: target-sprint
+    attributes:
+      label: Target Sprint
+      description: "e.g. Sprint 3, 26w9"
+      placeholder: "Sprint 3"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: feature-safety-relevance
+    attributes:
+      label: ISO 26262 Safety Relevance
+      description: Does this feature involve safety-critical work?
+      options:
+        - "Yes — ASIL classified"
+        - "Partial — QM with safety context"
+        - "No — non-safety"
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature-dependencies
+    attributes:
+      label: Dependencies
+      description: Related issues, PRs, or external blockers
+      placeholder: |
+        - Depends on #456
+        - Blocked by ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: technical-notes
+    attributes:
+      label: Technical Notes
+      description: Implementation hints, architecture considerations, or references
+      placeholder: |
+        - Relevant docs: ...
+        - Affected components: ...
+    validations:
+      required: false
